@@ -35,7 +35,7 @@ export default function Main() {
       flexDirection={"column"}
       pr={"5"}
       pl={"5"}
-      alignItems="center" // Center items horizontally
+      alignItems="center" 
     >
         <Heading
           color={"white"}
